@@ -1,5 +1,5 @@
 ## Introduction  
-I got tired of waiting for my machine learning projects to train while sitting at my computer never knowing how much longer was  
+I got tired of waiting for my machine learning projects to train while sitting at my computer never knowing how much longer was 
 left. I wanted to be able to leave my pc and get other things done while the program ran. This has also been used as a price  
 alert script when an item you are keeping an eye on drops below a certain price.  
   
